@@ -1,20 +1,18 @@
-<<<<<<< HEAD
-# medease1
+# Welcome to MEDEASE 👋
 
-A new Flutter project.
+> A Scalable medical application designed to make healthcare more accessabile to patients , doctors and admins
 
-## Getting Started
+## Author
 
-This project is a starting point for a Flutter application.
+👤 **Ahmed Emad**
 
-A few resources to get you started if this is your first Flutter project:
+* Github: [@ahmedemad1542](https://github.com/ahmedemad1542)
+* LinkedIn: [@Ahmed Emad](https://linkedin.com/in/Ahmed Emad)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Show your support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# MedEase-App
->>>>>>> c638929c50953020df3e9f46589d5aad048a68fd
+Give a ⭐️ if this project helped you!
+
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
