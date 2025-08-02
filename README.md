@@ -7,15 +7,15 @@
 👤 **Ahmed Emad**
 
 * Github: [@ahmedemad1542](https://github.com/ahmedemad1542)
-* LinkedIn: [@Ahmed Emad](https://linkedin.com/in/Ahmed Emad)
+* LinkedIn: [@Ahmed Emad](https://www.linkedin.com/in/ahmed-emad-640385202/)
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Don't hesitate to leave a review/
 
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_![Screenshot_1751961475](images/screens/Screenshot_1751961475.png) 
+_![Screenshot_1751961475](images/screens/Screenshot_1751961475.png) 
 ![Screenshot_1751961481](images/screens/Screenshot_1751961481.png) 
 ![Screenshot_1751961512](images/screens/Screenshot_1751961512.png) 
 ![Screenshot_1751961515](images/screens/Screenshot_1751961515.png) 
