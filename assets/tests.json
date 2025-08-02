@@ -1,0 +1,146 @@
+{
+    "lab_tests": {
+      "Blood Tests": [
+        {
+          "name": "Hemoglobin (Hb)",
+          "normal_range": "13.8 - 17.2 g/dL (Male), 12.1 - 15.1 g/dL (Female)",
+          "low_causes": ["فقر الدم", "نقص الحديد", "نقص فيتامين B12", "نزيف داخلي"],
+          "high_causes": ["الجفاف", "أمراض الرئة", "اضطرابات الدم", "زيادة إنتاج كريات الدم الحمراء"]
+        },
+        {
+          "name": "White Blood Cells (WBC)",
+          "normal_range": "4,000 - 11,000 cells/μL",
+          "low_causes": ["ضعف المناعة", "عدوى فيروسية", "نقص التغذية", "مشاكل نخاع العظم"],
+          "high_causes": ["عدوى بكتيرية", "التهاب", "سرطان الدم", "رد فعل تحسسي"]
+        },
+        {
+          "name": "Platelets (PLT)",
+          "normal_range": "150,000 - 450,000 cells/μL",
+          "low_causes": ["نقص المناعة", "أمراض الكبد", "اضطرابات نخاع العظم"],
+          "high_causes": ["اضطرابات تخثر الدم", "التهاب حاد", "سرطان"]
+        }
+      ],
+      "Urine Tests": [
+        {
+          "name": "Urine pH",
+          "normal_range": "4.5 - 8.0",
+          "low_causes": ["الحماض الأيضي", "الجفاف", "السكري غير المنضبط"],
+          "high_causes": ["عدوى المسالك البولية", "حصوات الكلى", "حمى طويلة الأمد"]
+        },
+        {
+          "name": "Protein in Urine",
+          "normal_range": "0 - 14 mg/dL",
+          "high_causes": ["أمراض الكلى", "ارتفاع ضغط الدم", "السكري", "التهابات المسالك البولية"]
+        }
+      ],
+      "Stool Tests": [
+        {
+          "name": "Occult Blood Test",
+          "normal_range": "Negative",
+          "positive_causes": ["قرحة المعدة", "سرطان القولون", "التهاب الأمعاء", "نزيف داخلي"]
+        },
+        {
+          "name": "Stool Consistency",
+          "normal_range": "Soft, Formed",
+          "abnormal_causes": ["الإسهال", "الإمساك", "عدوى الجهاز الهضمي"]
+        }
+      ],
+      "Kidney Function Tests": [
+        {
+          "name": "Creatinine",
+          "normal_range": "0.6 - 1.3 mg/dL",
+          "high_causes": ["الفشل الكلوي", "الجفاف", "تناول اللحوم بكثرة"],
+          "low_causes": ["ضعف العضلات", "سوء التغذية", "نقص البروتين"]
+        },
+        {
+          "name": "Blood Urea Nitrogen (BUN)",
+          "normal_range": "7 - 20 mg/dL",
+          "high_causes": ["أمراض الكلى", "الجفاف", "استهلاك البروتين بكثرة"],
+          "low_causes": ["أمراض الكبد", "سوء التغذية"]
+        }
+      ],
+      "Liver Function Tests": [
+        {
+          "name": "ALT (Alanine Aminotransferase)",
+          "normal_range": "7 - 56 U/L",
+          "high_causes": ["أمراض الكبد", "التهاب الكبد", "الإفراط في تناول الكحول"]
+        },
+        {
+          "name": "AST (Aspartate Aminotransferase)",
+          "normal_range": "10 - 40 U/L",
+          "high_causes": ["تلف الكبد", "أمراض القلب", "تلف العضلات"]
+        },
+        {
+          "name": "Bilirubin",
+          "normal_range": "0.1 - 1.2 mg/dL",
+          "high_causes": ["يرقان", "أمراض الكبد", "حصوات المرارة"]
+        }
+      ],
+      "Diabetes Tests": [
+        {
+          "name": "Fasting Blood Sugar (FBS)",
+          "normal_range": "70 - 99 mg/dL",
+          "high_causes": ["مرض السكري", "إجهاد", "تناول السكريات قبل الفحص"],
+          "low_causes": ["نقص السكر في الدم", "أورام البنكرياس"]
+        },
+        {
+          "name": "HbA1c",
+          "normal_range": "Less than 5.7%",
+          "high_causes": ["مرض السكري غير المنضبط", "السمنة"]
+        }
+      ],
+      "Lipid Profile": [
+        {
+          "name": "Total Cholesterol",
+          "normal_range": "Less than 200 mg/dL",
+          "high_causes": ["أمراض القلب", "تناول الدهون المشبعة", "قلة التمارين الرياضية"]
+        },
+        {
+          "name": "LDL (Bad Cholesterol)",
+          "normal_range": "Less than 100 mg/dL",
+          "high_causes": ["أمراض القلب", "نظام غذائي غير صحي"]
+        },
+        {
+          "name": "HDL (Good Cholesterol)",
+          "normal_range": "More than 40 mg/dL",
+          "low_causes": ["السمنة", "عدم ممارسة الرياضة"]
+        }
+      ],
+      "Thyroid Tests": [
+        {
+          "name": "TSH (Thyroid Stimulating Hormone)",
+          "normal_range": "0.4 - 4.0 mIU/L",
+          "high_causes": ["قصور الغدة الدرقية"],
+          "low_causes": ["فرط نشاط الغدة الدرقية"]
+        },
+        {
+          "name": "T3, T4",
+          "normal_range": "T3: 80 - 180 ng/dL, T4: 5 - 12 μg/dL",
+          "high_causes": ["فرط نشاط الغدة الدرقية"],
+          "low_causes": ["قصور الغدة الدرقية"]
+        }
+      ],
+      "Hormonal Tests": [
+        {
+          "name": "Testosterone",
+          "normal_range": "300 - 1,000 ng/dL (Male), 15 - 70 ng/dL (Female)",
+          "high_causes": ["متلازمة تكيس المبايض", "أورام الغدة الكظرية"],
+          "low_causes": ["قصور الغدد التناسلية", "الشيخوخة"]
+        },
+        {
+          "name": "Estrogen",
+          "normal_range": "15 - 350 pg/mL",
+          "high_causes": ["متلازمة تكيس المبايض", "أورام المبيض"],
+          "low_causes": ["سن اليأس", "قصور الغدد التناسلية"]
+        }
+      ],
+      "Immunology Tests": [
+        {
+          "name": "CRP (C-Reactive Protein)",
+          "normal_range": "Less than 10 mg/L",
+          "high_causes": ["التهابات مزمنة", "أمراض القلب"]
+        }
+      ]
+    }
+  }
+  
